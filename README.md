@@ -39,7 +39,7 @@ If the generated import list is missing a library, use the `-import` flag to add
 
 # Contributing
 
-Missing a feature? [Open an issue][issues] or fork and send over a pull request.
+Missing a feature? [Open an issue](issues) or fork and send over a pull request.
 
 # License
 This work is published under the MIT license.
